@@ -1,0 +1,3 @@
+server:47.110.62.8:47439
+username:administrator
+passsword:XXqg@123
